@@ -1,0 +1,12 @@
+:hover.bgblue{
+    background: linear-gradient(to left, #007aff 50%, #fff 50%);
+    background-size: 200% 100%;
+    background-position: bottom left;
+    transition: all .3s ease-in-out;
+    color: #fff;
+
+}
+.bgblue:hover{
+    background-position: bottom right;
+    
+}
